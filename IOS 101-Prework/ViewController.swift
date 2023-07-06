@@ -7,7 +7,14 @@
 
 import UIKit
 
+
+
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var myName: UILabel!
+    @IBOutlet weak var mySchool: UILabel!
+    @IBOutlet weak var myJob: UILabel!
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -30,6 +37,15 @@ class ViewController: UIViewController {
             return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
     }
     
+    @IBAction func changeTextColor(_ sender: UIButton) {
+        
+        let randomColor_1 = changeColor()
+        let randomColor_2 = changeColor()
+        let randomColor_3 = changeColor()
+        myName.textColor = randomColor_1
+        mySchool.textColor = randomColor_2
+        myJob.textColor = randomColor_3
+    }
     
 }
 
