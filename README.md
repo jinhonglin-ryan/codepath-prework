@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/egoEcNK.gif)
+![](https://github.com/jinhonglin-ryan/CodePath-Prework/blob/main/Walk%20Through.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
