@@ -69,7 +69,7 @@ When I tried to add additional function, changing the color of texts, I was a bi
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jinhong Lin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
