@@ -4,20 +4,20 @@ Submitted by: **Jinhong Lin**
 
 **Change Colors: CodePath IOS101 Prework** is an app that can change the app's background color randomly with a simple click of the button. It is also updated with the function of randomly changing the app's texts' colors, still with a click of the button. 
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [☑️] Users are see a screen with three labels and a button
+- [☑️] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/egoEcNK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://i.imgur.com/egoEcNK.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
